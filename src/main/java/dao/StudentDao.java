@@ -12,4 +12,5 @@ import java.util.List;
 public interface StudentDao {
     boolean update(Student student);
     boolean insert(List<Student> studentList);
+    boolean delete(int id);
 }
