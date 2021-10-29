@@ -1,0 +1,28 @@
+
+\
+java:S1854"FRemove this useless assignment to local variable "employeeBeanDaoImp".(°Ïòô
+M
+java:S1481"7Remove this unused "employeeBeanDaoImp" local variable.(°Ïòô
+Q	java:S125"<This block of commented-out lines of code should be removed.(—ñ²ø
+V	java:S125!"<This block of commented-out lines of code should be removed.(£óüÿÿÿÿ
+X	java:S125]"<This block of commented-out lines of code should be removed.(÷ÁĞã8İ‰ğ˜Ì/
+R
+java:S1128"0Remove this unused import 'entity.EmployeeBean'.(ß¸ñšÿÿÿÿÿ8ıŒ±˜Ì/
+T
+java:S1128"2Remove this unused import 'org.hibernate.Session'.(È¹›§ùÿÿÿÿ8ıŒ±˜Ì/
+W
+java:S1128"5Remove this unused import 'utils.BeanValidatorUtils'.(ÏÈ ·ûÿÿÿÿ8ıŒ±˜Ì/
+N
+java:S1128	"1Remove this unused import 'utils.HibernateUtils'.(ƒõèô8ıŒ±˜Ì/
+S
+java:S1128
+"1Remove this unused import 'utils.ValidationBean'.(—£„ùÿÿÿÿ8ıŒ±˜Ì/
+p
+java:S1192'"NDefine a constant instead of duplicating this literal "Nguyen Van E" 10 times.(Ñò¹’şÿÿÿÿ8Üª˜Ì/
+j
+java:S1192("MDefine a constant instead of duplicating this literal "Nguyen Van F" 9 times.(‹—È8…®«˜Ì/
+o
+java:S1192&"MDefine a constant instead of duplicating this literal "Nguyen Van D" 9 times.(Á½Õöøÿÿÿÿ8…®«˜Ì/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡
+b
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘
